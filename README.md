@@ -25,13 +25,13 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile](https://github.com/S-Devoe/hubble/blob/6758b8384ee49f66a819d88aaf48a5e2165244be/hubble-mobile-screenshot.png)
-![Desktop](https://github.com/S-Devoe/hubble/blob/6758b8384ee49f66a819d88aaf48a5e2165244be/hubble-desktop-screenshot.png)
+![Mobile](https://github.com/S-Devoe/orderSummary/blob/main/Screenshot%202021-09-29%20at%2011-52-16%20Order%20Summary.png?raw=true)
+![Desktop](https://github.com/S-Devoe/orderSummary/blob/main/Screenshot%202021-09-29%20at%2011-51-49%20Order%20Summary.png?raw=true)
 
 ### Links
 
-- Solution URL: [GitHUb](https://github.com/S-Devoe/hubble.git)
-- Live Site URL: [Netlify](https://nostalgic-kilby-e310b8.netlify.app)
+- Solution URL: [GitHUb](https://github.com/S-Devoe/orderSummary.git)
+- Live Site URL: [Netlify](https://hungry-johnson-642b1e.netlify.app/)
 
 
 ### Built with
